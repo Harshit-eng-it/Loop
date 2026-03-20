@@ -67,7 +67,7 @@ my_tuple = (10, 20, 30)
 print(my_tuple)
 my_set = {1, 2, 3, 3, 4}
 print(my_set)
-my_dict = {"name": "Harshit",  "age": 18, "course": "BTech"}
+my_dict = {"name": "Harshit",  "age": 20, "course": "BTech"}
 print(my_dict["name"]) 
 
 def multiply(a1,a2):
